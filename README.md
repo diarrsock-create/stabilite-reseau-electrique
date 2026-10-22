@@ -43,7 +43,7 @@ Exécuter les notebooks **dans l'ordre 01, 02, 03** avec « Restart & Run All »
 
 ## Données
 
-Electrical Grid Stability Simulated Data, UCI Machine Learning Repository (id 471), copie Kaggle : https://www.kaggle.com/datasets/ishadss/electrical-grid-stability-simulated-data-dataset
+Electrical Grid Stability Simulated Data, UCI Machine Learning Repository (id 471), copie Kaggle : https://www.kaggle.com/datasets/ishadss/electrical-grid-stability-simulated-data-data-set
 
 ## Déclaration d'usage de l'IA générative
 
